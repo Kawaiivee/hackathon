@@ -14,11 +14,11 @@ x += x_move;
 y += y_move;
 
 if(x < 0 + .5*sprite_width){
-	x = 0 + .5*sprite_width;
+	x = room_width - .5*sprite_width;
 }
 
 if(x > room_width - .5*sprite_width){
-	x = room_width - .5*sprite_width;
+	x = 0 + .5*sprite_width;
 }
 
 if(y < 0 + .5*sprite_height){
