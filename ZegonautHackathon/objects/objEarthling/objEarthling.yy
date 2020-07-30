@@ -1,38 +1,28 @@
 {
-    "id": "391d3a0f-e416-47a7-9c6e-31bb4efb69ad",
+    "id": "06f07fee-c110-4791-b168-268d0446d35e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objSplashLogo",
+    "name": "objEarthling",
     "eventList": [
         {
-            "id": "a41cb78e-5397-48e9-a9e9-cea5e4139759",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "391d3a0f-e416-47a7-9c6e-31bb4efb69ad"
-        },
-        {
-            "id": "fe54c6fa-fb4d-475c-a476-110e46ad8fc0",
+            "id": "5a0427b5-c6a5-494c-bcf7-c681e6ce8471",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "391d3a0f-e416-47a7-9c6e-31bb4efb69ad"
+            "m_owner": "06f07fee-c110-4791-b168-268d0446d35e"
         },
         {
-            "id": "c7c02d8f-3319-4d9f-a644-318243f5ebda",
+            "id": "5cf4feec-e8b0-4c17-bd87-c2337ccc7493",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 64,
-            "eventtype": 8,
-            "m_owner": "391d3a0f-e416-47a7-9c6e-31bb4efb69ad"
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "06f07fee-c110-4791-b168-268d0446d35e"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "011338de-db07-4fde-8962-7c7412e548d4",
+    "spriteId": "32a1c11c-bea8-40fb-b140-8ca8f794e49b",
     "visible": true
 }
