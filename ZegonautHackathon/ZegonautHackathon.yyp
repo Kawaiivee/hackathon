@@ -39,11 +39,35 @@
             }
         },
         {
+            "Key": "02a7937d-e1ce-4fdb-93d1-4dacda253913",
+            "Value": {
+                "id": "642f62b0-a442-4517-ad28-cc2a4cd01449",
+                "resourcePath": "objects\\objMask\\objMask.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "065eca3e-dcf0-447d-b340-f3c9f0ebb91a",
             "Value": {
                 "id": "08830d10-9a74-4cb1-960c-de1a03abbbd0",
                 "resourcePath": "objects\\objGlobals\\objGlobals.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "06f07fee-c110-4791-b168-268d0446d35e",
+            "Value": {
+                "id": "a7c5e695-d88b-4d7d-ae4c-eb985f714391",
+                "resourcePath": "objects\\objEarthling\\objEarthling.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0a0cf183-f314-4c9b-a73d-8beb297006f6",
+            "Value": {
+                "id": "2a667835-0b54-42ac-a480-9183acfc9b5b",
+                "resourcePath": "sprites\\sprMask\\sprMask.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -76,6 +100,14 @@
                 "id": "c9583782-613e-49c6-ab70-cd3aff34075a",
                 "resourcePath": "views\\2d74116c-bb7f-46b5-a8f2-219161780a0e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "32a1c11c-bea8-40fb-b140-8ca8f794e49b",
+            "Value": {
+                "id": "5d2b37bc-ae4d-4def-b700-2012fbbe87d1",
+                "resourcePath": "sprites\\sprEarthling\\sprEarthling.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -122,7 +154,7 @@
             "Key": "69f5fe2a-7d1c-4e2b-b302-d83d76c66aac",
             "Value": {
                 "id": "8de63fb1-72f5-490d-9a24-664bfaf90bed",
-                "resourcePath": "objects\\objPlayer\\objPlayer.yy",
+                "resourcePath": "objects\\objRocket\\objRocket.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -148,6 +180,14 @@
                 "id": "45b3b375-8fea-4288-87f0-c2af0321e247",
                 "resourcePath": "options\\tvos\\options_tvos.yy",
                 "resourceType": "GMtvOSOptions"
+            }
+        },
+        {
+            "Key": "9538c062-b273-444f-bab9-effffcbe4a5f",
+            "Value": {
+                "id": "dfcd75b8-bc32-4bda-8ba0-08337d8a6fbc",
+                "resourcePath": "objects\\objEarthlingSpawner\\objEarthlingSpawner.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -250,7 +290,7 @@
             "Key": "f081221d-eca3-4251-ac1f-deabe2be623b",
             "Value": {
                 "id": "ed5a5755-a09c-4637-a618-fadf0149b5ad",
-                "resourcePath": "sprites\\sprPlayer\\sprPlayer.yy",
+                "resourcePath": "sprites\\sprRocket\\sprRocket.yy",
                 "resourceType": "GMSprite"
             }
         },
