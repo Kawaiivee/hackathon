@@ -39,14 +39,6 @@
             }
         },
         {
-            "Key": "01df7751-5974-452d-9619-9844afe16bcb",
-            "Value": {
-                "id": "02be3773-469c-49ab-821d-f10f296e600e",
-                "resourcePath": "sprites\\sprZegonaut\\sprZegonaut.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "065eca3e-dcf0-447d-b340-f3c9f0ebb91a",
             "Value": {
                 "id": "08830d10-9a74-4cb1-960c-de1a03abbbd0",
@@ -82,7 +74,7 @@
             "Key": "31e25e16-6585-49b5-a44d-737642fb4774",
             "Value": {
                 "id": "5190e3a9-5cf0-4c3c-a2e7-d9d1ade91d3d",
-                "resourcePath": "objects\\objPlayer2\\objPlayer2.yy",
+                "resourcePath": "objects\\objPlayer1\\objPlayer1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -100,14 +92,6 @@
                 "id": "096eda59-1c13-4ab7-ba30-8ad93627aecd",
                 "resourcePath": "views\\3b544266-416d-4d82-a391-406f749205b4.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "3df79ece-bd78-452d-85fc-3166244a4c78",
-            "Value": {
-                "id": "dc2fad4d-26a4-48b8-a698-c23784e4c474",
-                "resourcePath": "objects\\objPlayer3\\objPlayer3.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -175,14 +159,6 @@
             }
         },
         {
-            "Key": "98ff46d6-ebbc-4089-be8a-df02ae1a456b",
-            "Value": {
-                "id": "3bda429c-9786-4d76-adf6-be1a0156f8a8",
-                "resourcePath": "objects\\objPlayer1\\objPlayer1.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "a0886bb9-4510-4da2-8668-5f8a1c0405d2",
             "Value": {
                 "id": "c5b23b86-abfd-4ae7-a9ac-a27ed9043f12",
@@ -196,14 +172,6 @@
                 "id": "25deb5da-c391-404a-b8dc-68c5cec5a957",
                 "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
                 "resourceType": "GMAmazonFireOptions"
-            }
-        },
-        {
-            "Key": "a47df780-8352-4da3-9510-192fe2985774",
-            "Value": {
-                "id": "dd89532a-9748-4133-ac1e-61901abaa310",
-                "resourcePath": "sprites\\sprZegonaut2\\sprZegonaut2.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
