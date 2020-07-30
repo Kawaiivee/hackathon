@@ -31,10 +31,34 @@
     },
     "resources": [
         {
+            "Key": "011338de-db07-4fde-8962-7c7412e548d4",
+            "Value": {
+                "id": "96241fcf-e8ec-456d-a75e-334ddb2cb379",
+                "resourcePath": "sprites\\sprSplashLogo\\sprSplashLogo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "065eca3e-dcf0-447d-b340-f3c9f0ebb91a",
+            "Value": {
+                "id": "08830d10-9a74-4cb1-960c-de1a03abbbd0",
+                "resourcePath": "objects\\objGlobals\\objGlobals.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "10727f54-4c2e-47d7-8834-082789cbcb8b",
             "Value": {
                 "id": "bb8522cf-c563-47cc-9ba3-ff5246956fb1",
                 "resourcePath": "rooms\\rmGame\\rmGame.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "11c08332-d3d5-49fa-a8bb-1ae687d7e35b",
+            "Value": {
+                "id": "5bd7ebd1-85de-414b-877d-819b2322fcef",
+                "resourcePath": "rooms\\rmSplash\\rmSplash.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -52,6 +76,14 @@
                 "id": "c9583782-613e-49c6-ab70-cd3aff34075a",
                 "resourcePath": "views\\2d74116c-bb7f-46b5-a8f2-219161780a0e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "391d3a0f-e416-47a7-9c6e-31bb4efb69ad",
+            "Value": {
+                "id": "be63956f-234c-4098-a1a5-af2f8f8e3526",
+                "resourcePath": "objects\\objSplashLogo\\objSplashLogo.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -196,6 +228,14 @@
                 "id": "93798ffb-f9ed-4460-8c82-11c9d8b2d5ed",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e916cbdd-b7b4-4a04-8c7c-d0160adf3f25",
+            "Value": {
+                "id": "3f0f69a1-b0ea-45da-8b94-36a1848a582a",
+                "resourcePath": "objects\\objRoomManager\\objRoomManager.yy",
+                "resourceType": "GMObject"
             }
         },
         {
