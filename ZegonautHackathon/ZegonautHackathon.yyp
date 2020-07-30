@@ -39,19 +39,19 @@
             }
         },
         {
+            "Key": "01df7751-5974-452d-9619-9844afe16bcb",
+            "Value": {
+                "id": "02be3773-469c-49ab-821d-f10f296e600e",
+                "resourcePath": "sprites\\sprZegonaut\\sprZegonaut.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "065eca3e-dcf0-447d-b340-f3c9f0ebb91a",
             "Value": {
                 "id": "08830d10-9a74-4cb1-960c-de1a03abbbd0",
                 "resourcePath": "objects\\objGlobals\\objGlobals.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "10727f54-4c2e-47d7-8834-082789cbcb8b",
-            "Value": {
-                "id": "bb8522cf-c563-47cc-9ba3-ff5246956fb1",
-                "resourcePath": "rooms\\rmGame\\rmGame.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "31e25e16-6585-49b5-a44d-737642fb4774",
+            "Value": {
+                "id": "5190e3a9-5cf0-4c3c-a2e7-d9d1ade91d3d",
+                "resourcePath": "objects\\objPlayer2\\objPlayer2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "391d3a0f-e416-47a7-9c6e-31bb4efb69ad",
             "Value": {
                 "id": "be63956f-234c-4098-a1a5-af2f8f8e3526",
@@ -92,6 +100,14 @@
                 "id": "096eda59-1c13-4ab7-ba30-8ad93627aecd",
                 "resourcePath": "views\\3b544266-416d-4d82-a391-406f749205b4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3df79ece-bd78-452d-85fc-3166244a4c78",
+            "Value": {
+                "id": "dc2fad4d-26a4-48b8-a698-c23784e4c474",
+                "resourcePath": "objects\\objPlayer3\\objPlayer3.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -124,6 +140,14 @@
                 "id": "8de63fb1-72f5-490d-9a24-664bfaf90bed",
                 "resourcePath": "objects\\objPlayer\\objPlayer.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "72db4d83-db70-48f2-b070-19383a6c1042",
+            "Value": {
+                "id": "4b53b48d-99c2-4bc5-a5cd-4582f85dfd0a",
+                "resourcePath": "sprites\\sprSpaceship1\\sprSpaceship1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -172,6 +196,14 @@
                 "id": "25deb5da-c391-404a-b8dc-68c5cec5a957",
                 "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
                 "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
+            "Key": "a47df780-8352-4da3-9510-192fe2985774",
+            "Value": {
+                "id": "dd89532a-9748-4133-ac1e-61901abaa310",
+                "resourcePath": "sprites\\sprZegonaut2\\sprZegonaut2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
