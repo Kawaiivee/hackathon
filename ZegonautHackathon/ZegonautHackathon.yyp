@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "03bc0a1a-0d9c-43e3-85a7-b0c62c5c5c57",
+            "Value": {
+                "id": "b0554a74-6a20-452d-8bdb-c60ba7d6e406",
+                "resourcePath": "sprites\\sprZegonaut1\\sprZegonaut1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "10727f54-4c2e-47d7-8834-082789cbcb8b",
             "Value": {
                 "id": "bb8522cf-c563-47cc-9ba3-ff5246956fb1",
@@ -116,6 +124,14 @@
                 "id": "45b3b375-8fea-4288-87f0-c2af0321e247",
                 "resourcePath": "options\\tvos\\options_tvos.yy",
                 "resourceType": "GMtvOSOptions"
+            }
+        },
+        {
+            "Key": "98ff46d6-ebbc-4089-be8a-df02ae1a456b",
+            "Value": {
+                "id": "3bda429c-9786-4d76-adf6-be1a0156f8a8",
+                "resourcePath": "objects\\objPlayer1\\objPlayer1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
