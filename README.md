@@ -1,16 +1,8 @@
 # Associate Engineer Hackathon Program
 This project is a simple game that can be integrated in the resident experience to increase awarness of COVID-19
 
+# Demo
+Playable demos are in the Demo folder for Windows and macOS. Simply clone this repo or download those zip folder, extract, and play!
 
-## Requirements
-
-* Game Maker Studio (for compiling) [GMS2.0](https://www.yoyogames.com/get)
-
-
-## Getting Started
-
-* Clone the repo
-* Open GMS 2.0
-* Select "Create Executable" from the build menu
-* Compile for your OS
-
+# Tech
+Developed using Game Maker Studio 2 -- feel free to download GMS:2 from Yoyogames and poke around the source code
