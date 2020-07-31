@@ -103,14 +103,6 @@
             }
         },
         {
-            "Key": "2716c31f-cc57-4469-9c6d-f684c332d09f",
-            "Value": {
-                "id": "2ce65ffd-2c0f-4f2c-b05a-dbfdcebb0d97",
-                "resourcePath": "objects\\objSpace8\\objSpace8.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "2cb61668-93bc-45de-b175-80dd6bedc4ae",
             "Value": {
                 "id": "d5eccc15-73e6-4a55-b015-c5ae12df2aa3",
@@ -151,10 +143,26 @@
             }
         },
         {
+            "Key": "40c8c0d0-b47c-49d8-87b8-d0f6c3b3d189",
+            "Value": {
+                "id": "f943c22d-6f15-4398-9945-30b747ebaadf",
+                "resourcePath": "objects\\objParticle\\objParticle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "492751c7-4086-45e5-96b7-333f2f395870",
             "Value": {
                 "id": "47ceca06-1c34-4799-9174-130cd50a48a8",
                 "resourcePath": "sprites\\sprSpace5\\sprSpace5.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "53877a92-2739-4d5f-9c54-2a947316bc7f",
+            "Value": {
+                "id": "023776d1-1ae6-4da3-b1b5-975e4c15f404",
+                "resourcePath": "sprites\\sprRocketBackup\\sprRocketBackup.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -268,14 +276,6 @@
                 "id": "74a22b35-9de3-4951-a6fb-5806a5633c88",
                 "resourcePath": "objects\\objSpace4\\objSpace4.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "9882436d-1902-4d15-9c41-aa7d2d68c898",
-            "Value": {
-                "id": "99f4d97a-f9ed-4999-bbb9-14a004ef9011",
-                "resourcePath": "sprites\\sprSpace8\\sprSpace8.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
