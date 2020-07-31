@@ -37,6 +37,8 @@ else if(moveX < 0){
 x += moveX*xSpd;
 y += moveY*ySpd;
 
-if(keyDrop){
+if(keyDrop && dropTimer){
 	instance_create_layer(x, y + 20, "Instances", objMask);
+	dropTimer = false;
+	alarm[0] = .5*room_speed;	//can drop 1 mask per second
 }
